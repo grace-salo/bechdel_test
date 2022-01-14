@@ -1,3 +1,3 @@
-# portfolio1
+# bechdel_test
 
-Access project1 Shiny App here: https://gracesalo.shinyapps.io/project1/.
+Access bechdel_test Shiny App here: https://gracesalo.shinyapps.io/bechdel_test/
